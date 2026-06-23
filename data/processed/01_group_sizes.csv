@@ -1,0 +1,3 @@
+experiment_group,users_count,users_share
+control,6000,0.5
+test,6000,0.5
